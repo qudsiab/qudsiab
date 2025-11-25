@@ -17,3 +17,5 @@ I'm an aspiring CS student just trying to find my way in the world of tech. I lo
 My inbox is always open. Whether you have a question or just want to say hi.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+> “The best way to predict the future is to invent it.”  
