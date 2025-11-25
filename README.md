@@ -14,7 +14,7 @@ I'm an aspiring CS student just trying to find my way in the world of tech. I lo
 - Email: [Mail Me](mailto:qudsia.dev@gmail.com)
 - GitHub: [github.com/qudsiab](https://github.com/qudsiab/) 
 
-My inbox is always open for questions, ideas or if just want to say hi.
+My inbox is always open for questions, ideas, or if you just want to say hi.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
